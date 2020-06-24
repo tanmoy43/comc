@@ -1,0 +1,3 @@
+#this is 404 page
+
+ErrorDocument 404 http://localhost/PROJECT%20DIP/admin/404.php
